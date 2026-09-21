@@ -2,8 +2,6 @@
 
 ### Java Backend Engineer | Spring Boot · Microservices · Payment Integrations
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NELIT2714&label=Profile views&color=0e75b6&style=flat" alt="NELIT2714" /> </p>
-
 - 👯 I'm looking to collaborate on **Open-source projects around payment infrastructure, backend architecture, or Java/Spring tooling**
 
 - 🤝 I'm looking for help with **Scaling distributed systems, gRPC best practices**
